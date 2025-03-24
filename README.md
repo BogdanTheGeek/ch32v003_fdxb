@@ -1,5 +1,10 @@
 FDX-B Pet Microchip Reader based on the ch32v003.
 
+![image](https://github.com/user-attachments/assets/5c0fe582-df12-447c-92f1-f59879649ce7)
+
+![image](https://github.com/user-attachments/assets/d0b7835d-4a80-43cd-970a-63fdd52a016f)
+
+
 # Hardware
 The reader coil should be about 5cm in diameter.
 Around 50 turns should be enough.
@@ -10,6 +15,8 @@ Check the Microchip application note in /docs.
 The circuit is quite simple, all of the elements are clearly labled in the schematic.
 
 I have included a schematic dedicated for simulating the circuit.
+
+![image](https://github.com/user-attachments/assets/461a4e33-c356-48ee-98d4-df65ce0ebcf4)
 
 The PCB was designed to be easly for me to etch at home.
 
