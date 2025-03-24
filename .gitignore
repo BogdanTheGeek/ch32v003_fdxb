@@ -1,0 +1,9 @@
+*.bin
+*.lst
+*.hex
+*.elf
+.DS_Store
+*.swo
+*.swp
+**/*-backups
+**/Gerber
